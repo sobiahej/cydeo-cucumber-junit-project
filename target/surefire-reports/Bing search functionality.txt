@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Bing search functionality
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 32.537 s <<< FAILURE! - in Bing search functionality
+Bing search functionality.Search result title verification #2  Time elapsed: 10.191 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Bing]> but was:<[orange]>
+
